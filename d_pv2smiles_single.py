@@ -8,6 +8,7 @@ from torch.distributions.categorical import Categorical
 from rdkit import Chem
 import random
 import numpy as np
+import pandas as pd
 import pickle
 import warnings
 from tqdm import tqdm

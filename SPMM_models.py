@@ -1,3 +1,5 @@
+#chem prop - smile Bidirectional generational model
+
 from xbert import BertConfig, BertForMaskedLM
 import torch
 import torch.nn.functional as F
